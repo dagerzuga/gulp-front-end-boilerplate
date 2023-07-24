@@ -28,7 +28,7 @@ Boilerplate for front-end development using Gulp to handle all the boring tasks 
 
 ## Available gulp.js tasks
 - `gulp dev` Run this command to start the development server. It will watch for changes in the `src` folder and reload the browser when a change is detected.
-- `gulp build` Run this command to build the project. It will compile all the files and put them in the `dist` folder. This is the folder you will upload to your server.
+- `gulp prod` Run this command to build the project. It will compile all the files and put them in the `dist` folder. This is the folder you will upload to your server.
 - `gulp clean` Run this command to delete the `dist` folder. This is useful when you want to start fresh. Keep in mind this also deletes the files under `src/js` and `src/css`.
 
 ## Folder structure
